@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="open_label">Open</string>
+    <string name="share_label">Share</string>
+    <string name="url_label">URL</string>
+    <string name="copy">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="scan_again_some_error_occured">Scan again,\nSome error occurred</string>
+</resources>
