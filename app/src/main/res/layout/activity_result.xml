@@ -60,7 +60,6 @@
                     android:layout_height="75dp"
                     android:background="#FFFFFF"
                     android:contentDescription="@string/copy"
-
                     app:srcCompat="@drawable/ic_baseline_copy_24" />
 
                 <com.google.android.material.textview.MaterialTextView
@@ -132,7 +131,7 @@
         android:layout_marginBottom="8dp"
         android:visibility="visible"
         app:adSize="LARGE_BANNER"
-        app:adUnitId="ca-app-pub-3940256099942544/6300978111"
+        app:adUnitId="ca-app-pub-3516119346794527/8316849111"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -146,7 +145,7 @@
         android:layout_marginBottom="32dp"
         android:visibility="visible"
         app:adSize="LARGE_BANNER"
-        app:adUnitId="ca-app-pub-3940256099942544/6300978111"
+        app:adUnitId="ca-app-pub-3516119346794527/8329624698"
         app:layout_constraintBottom_toTopOf="@+id/adView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -160,7 +159,7 @@
         android:layout_marginBottom="32dp"
         android:visibility="visible"
         app:adSize="BANNER"
-        app:adUnitId="ca-app-pub-3940256099942544/6300978111"
+        app:adUnitId="ca-app-pub-3516119346794527/7460036789"
         app:layout_constraintBottom_toTopOf="@+id/adView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
